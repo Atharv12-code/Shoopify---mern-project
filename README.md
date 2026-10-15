@@ -1,6 +1,6 @@
-# Nexora
+# Shoopify
 
-Nexora is a full-stack e-commerce platform built with React, Express, MongoDB, and Mongoose. Customers can create accounts, browse a database-backed product catalogue, search and filter products, view product details, and manage their profile and delivery address.
+Shoopify is a full-stack e-commerce platform built with React, Express, MongoDB, and Mongoose. Customers can create accounts, browse a database-backed product catalogue, search and filter products, view product details, and manage their profile and delivery address.
 
 Customers can maintain a persistent cart, check out with a saved or new delivery address, pay in Razorpay Test Mode, and view their order history.
 
